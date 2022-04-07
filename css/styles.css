@@ -83,8 +83,7 @@ hr{
   padding-top: 60px;
   padding-bottom: 50px;
   width: 50%;
-  position: relative;
-  left: 340px;
+  margin: auto;
 }
 
 .profile{
